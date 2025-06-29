@@ -29,6 +29,7 @@ public class ProductApplication {
 
 		SpringApplication.run(ProductApplication.class, args);
 		int i = 10;
+		String name = "Anil";
 	}
 
 }
