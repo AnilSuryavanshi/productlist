@@ -28,12 +28,6 @@ public class ProductApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(ProductApplication.class, args);
-		int i = 10;
-
-		String name = "Anil";
-
-		int j = 20;
-
 	}
 
 }
